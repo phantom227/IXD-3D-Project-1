@@ -1,9 +1,15 @@
 #include <Servo.h>
 
+// didn't change a whole lot in this code, based on the tutorial
+// only had a standard motor, so I couldn't rotate continously
+// I did change the servoSpeed to move in different directions
+// but changing the spinners on top is what I experiemnted on
+
 Servo servoMotor;       // creates an instance of the servo object to control a servo
 int servoPin = 9;       // Control pin for servo motor
 //int servoSpeed = 175;   // set a variable for the speed of the continuous servo, can be sped up or slowed down
-int servoSpeed = 180;
+int servoSpeed = 0;
+//int servoSpeed = 180;
 
 void setup() {
   Serial.begin(9600);       // initialize serial communications
