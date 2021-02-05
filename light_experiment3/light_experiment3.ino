@@ -14,7 +14,7 @@
 
 // The amount of NeoPixels that are attached to Arduino
 #define LED_COUNT 4            // This is the only major change I made in this code is testing it out
-                               // with two NeoPixels!!
+                               // with four NeoPixels!!
 
 // Declaring the NeoPixel strip object:
 // The constructor:
