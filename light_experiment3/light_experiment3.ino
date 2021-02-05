@@ -45,7 +45,7 @@ void loop() {
   // colorWipe(strip.Color(random(100, 255), random(75, 255), random(195, 255)), 500);    // first array of color
   // colorWipe(strip.Color(34, 156, 98), 300);                                              // second array of color
 //   colorWipe(strip.Color(random(50, 155), random(10, 55), random(117, 255)), 100);          // third array of color
-   colorWipe(strip.Color(random(10, 255), random(100, 195), random(187, 195), random(96, 210)), 80);     //fourth array of color
+   colorWipe(strip.Color(random(10, 255), random(100, 195), random(187, 195)), 80);     //fourth array of color
 //   colorWipe(strip.Color(217, 25, 90, 75), 50);                                               //fifth array of color
 //  colorWipe(strip.Color(255,0,0), 1000); // R ~ red G ~ green B ~ blue 1000 milliseconds = 1 second
 
