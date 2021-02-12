@@ -1,3 +1,4 @@
+/* SOURCE CODE BY */
 /* Doug Whitton */
 
 #include <Servo.h>
