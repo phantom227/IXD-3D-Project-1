@@ -1,3 +1,5 @@
+/* Doug Whitton */
+
 #include <Servo.h>
 
 // didn't change a whole lot in this code, based on the tutorial
